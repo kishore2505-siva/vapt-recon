@@ -1,0 +1,7 @@
+- Nikto v2.5.0
++ Target IP: 10.0.0.5
++ The X-Content-Type-Options header is not present.
++ The Strict-Transport-Security HTTP header is not defined.
++ Content-Security-Policy header is not present.
++ Cookie PHPSESSID created without the httponly flag
++ /admin/: Admin login page found
